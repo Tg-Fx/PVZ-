@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 植物大战僵尸（Qt/C++ 版）
 
 一个使用 Qt Graphics View 框架实现的简化版《植物大战僵尸》示例项目，展示了 C++ 面向对象设计、图形项动画、拖放交互与碰撞检测等核心能力。
@@ -110,7 +109,3 @@
 ## 许可
 
 GPL-3.0（GNU General Public License version 3.0）
-=======
-# PVZ-
-面向对象程序设计C++报告
->>>>>>> fbead5ebecc56144020b6ba8b6fa79badb31ce85
